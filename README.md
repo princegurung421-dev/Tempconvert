@@ -20,4 +20,3 @@ The application has been deployed to demonstrate familiarity with different host
 
 ### PythonAnywhere
 
-* **Live Link:** https://askal.pythonanywhere.com/
